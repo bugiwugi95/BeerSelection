@@ -6,6 +6,7 @@
 Select the type of beer and click to continue.</string>
     <string name="Start">start</string>
     <string name="beer">beer</string>
+    <string name="help">Help</string>
     <string-array name="beer_colors">
         <item>Light</item>
         <item>Amber</item>

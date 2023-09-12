@@ -17,9 +17,15 @@
     <fragment
         android:id="@+id/beerResultFragment"
         android:name="com.hfad.beerselection.BeerResultFragment"
-        android:label="BeerResultFragment" >
+        android:label="BeerResultFragment"
+        tools:layout="@layout/fragment_result_beer">
         <argument
             android:name="beer"
             app:argType="string" />
     </fragment>
+    <fragment
+        android:id="@+id/helpFragment"
+        android:name="com.hfad.beerselection.HelpFragment"
+        android:label="HelpFragment"
+        tools:layout="@layout/fragment_help"/>
 </navigation>

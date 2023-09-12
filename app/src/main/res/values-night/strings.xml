@@ -2,4 +2,5 @@
 <resources>
     <string name="Start">start</string>
     <string name="beer">beer</string>
+    <string name="help">Help</string>
 </resources>
