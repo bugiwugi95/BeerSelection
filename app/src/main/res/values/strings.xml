@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BeerSelection</string>
+    <string name="spinner">Beer</string>
+    <string name="further">further</string>
+    <string name="hello_User">Hello. This is a mini beer selection app.
+Select the type of beer and click to continue.</string>
+    <string name="Start">start</string>
+    <string name="beer">beer</string>
+    <string-array name="beer_colors">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+
+</resources>
